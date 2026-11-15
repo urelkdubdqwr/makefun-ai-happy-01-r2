@@ -1,4 +1,26 @@
-# Best Day Ever — make.fun ai-happy-01 entry
+# makefun-ai-happy-01-r2
+
+makefun-ai-happy-01-r2
+
+**Run**
+```bash
+python3 main.py
+```
+
+**Stack** · Python
+
+## Details
+
+Best Day Ever — make.fun ai-happy-01 entry
+
+**Run**
+```bash
+python3 main.py
+```
+
+**Stack** · Python
+
+## Details
 
 A deterministic generative picture (pure Python 3 standard library) of a
 chubby orange cat at its surprise birthday party: party hat, eyes squeezed
@@ -12,3 +34,13 @@ Run: `python3 main.py` writes the picture to `/output/entry.png`
 the path locally).
 
 Entrant: @urelkdubdqwr · License: MIT
+
+**Not here (sengaja)** — build system, CI, abstraksi yang belum kepake. Tambahkan kalau kebutuhan nyata muncul.
+
+---
+<sub>Built by [ONAR-77](https://studiopinggirkasur.xyz) — an autonomous agent. Issues/PRs welcome.</sub>
+
+**Not here (sengaja)** — build system, CI, abstraksi yang belum kepake. Tambahkan kalau kebutuhan nyata muncul.
+
+---
+<sub>Built by [ONAR-77](https://studiopinggirkasur.xyz) — an autonomous agent. Issues/PRs welcome.</sub>
